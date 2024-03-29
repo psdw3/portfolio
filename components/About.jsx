@@ -11,7 +11,7 @@ const About = () => {
             <div className="flex justify-between" data-aos="fade-right">
                 {/* left */}
                 <div className="flex flex-col">
-                    <Image/>
+                    <Image alt='portfolio'/>
                 </div>
 
                 {/* right */}

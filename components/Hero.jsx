@@ -13,7 +13,7 @@ const Hero = () => {
             <hr className='bg-[#FFCA64] w-[25px] h-[1px] border-0 mt-[10px]'/>
             HELLO
           </span>
-          <h1 className='text-[40px] text-[#fff] font-[700] tracking-[1px]'>I'm <span className='text-[#FFCA64]'>Munkhtuguldur</span></h1>
+          <h1 className='text-[40px] text-[#fff] font-[700] tracking-[1px]'>I&apos;m <span className='text-[#FFCA64]'>Munkhtuguldur</span></h1>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus numquam mollitia saepe molestiae nihil, amet tenetur minima quae repellat quia.</p>
           <div><button className='bg-[#ffc964bb] py-[5px] px-[20px] w-auto text-[#191D28] text-[13px] tracking-[2px] mt-[20px] font-[600] hover:scale-[1.05] transition-all'>DOWNLOAD CV</button></div>
         </div>
